@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="bookstore.css"?>
+<bookstore>
+	<book>
+		<title>Title:web programming</title>
+		<author>Author:Chrisbates</author>
+		<publisher>publisher:oxford</publisher>
+		<edition>Edition:3</edition>
+		<price>Price:300</price>
+	</book>
+	<book>
+		<title>Title:Internet world-wide-web</title>
+		<author>Author:Ditel</author>
+		<publisher>publisher:pearson</publisher>
+		<edition>Edition:3</edition>
+		<price>Price:400</price>
+	</book>
+	<book>
+		<title>Title:Computer Networks</title>
+		<author>Author:Fourouzan</author>
+		<publisher>publisher:Mc Graw Hill</publisher>
+		<edition>Edition:5</edition>
+		<price>Price:700</price>
+	</book>
+	<book>
+		<title>Title:DBMS concepts</title>
+		<author>Author:Navath</author>
+		<publisher>publisher:Oxford</publisher>
+		<edition>Edition:5</edition>
+		<price>Price:600</price>
+	</book>
+	<book>
+		<title>Title:Linux programming</title>
+		<author>Author:Subhita Das</author>
+		<publisher>publisher:Oxford</publisher>
+		<edition>Edition:8</edition>
+		<price>Price:300</price>
+	</book>
+</bookstore>
